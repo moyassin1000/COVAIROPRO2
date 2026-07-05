@@ -1,0 +1,8 @@
+{
+  "app_name": "Convairo Pro",
+  "default_language": "ar",
+  "free_daily_limit": 10,
+  "premium_daily_limit": 10000,
+  "output_folder": "output",
+  "log_folder": "logs"
+}
